@@ -39,4 +39,5 @@ RECIPES = {
      'new pizza': {
         'ingredients': {'ham': 4, 'pepper': 4, 'onion': 3},
         'price': 11,
+  }
 }
